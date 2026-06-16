@@ -1,0 +1,7 @@
+customer_id,customer_name,email,region,campaign_id,spend,revenue,converted,event_date
+1,Alpha Corp,alpha@example.com,North,CMP1001,1200,4500,1,2026-01-10
+2,Beta Inc,beta@example.com,South,CMP1002,800,2200,1,2026-01-12
+3,Gamma LLC,gamma@example.com,West,CMP1001,600,900,0,2026-01-14
+4,Delta Ltd,delta@example.com,East,CMP1003,1500,5200,1,2026-01-18
+5,Epsilon Co,epsilon@example.com,North,CMP1002,700,1500,0,2026-01-22
+6,Zeta Group,zeta@example.com,South,CMP1004,950,3100,1,2026-01-25
